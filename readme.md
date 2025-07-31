@@ -7,4 +7,4 @@ isso aqui é um arquivo leiame
 
   marca texto
 
-  ![image.jpg](image.jpg)
+  ![image.jpg.jpg](image.jpg)
